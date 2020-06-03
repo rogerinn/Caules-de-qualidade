@@ -3,4 +3,4 @@
 
 Comandos: 
   - (!)caules
-  - (!)hello
+  - (!)welcome
