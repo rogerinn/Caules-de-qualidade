@@ -4,3 +4,5 @@
 Comandos: 
   - (!)caules
   - (!)welcome
+  - (!)cardapio
+  - (!)random
