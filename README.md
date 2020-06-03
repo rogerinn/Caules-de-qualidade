@@ -18,3 +18,5 @@ Comandos:
   - .|.extras
   
   - .|.ALOOO
+  
+  - .|.help
