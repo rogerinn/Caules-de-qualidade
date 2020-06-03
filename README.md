@@ -2,8 +2,8 @@
   - Bot para discord
 
 Comandos: 
-  - (!)caule
-  - (!)welcome
-  - (!)cardapio
-  - (!)random
-  - (!)surprise
+  - (|)caule
+  - (|)welcome
+  - (|)cardapio
+  - (|)random
+  - (|)surprise
