@@ -6,3 +6,4 @@ Comandos:
   - (!)welcome
   - (!)cardapio
   - (!)random
+  - (!)surprise
