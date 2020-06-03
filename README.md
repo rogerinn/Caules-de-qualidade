@@ -15,3 +15,5 @@ Comandos:
   - .|.goldenboy
 
   - .|.extras
+  
+  - .|.ALOOO
