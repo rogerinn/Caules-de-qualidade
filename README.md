@@ -1,4 +1,6 @@
 # Caules-de-qualidade
-Bot para discord
+  - Bot para discord
 
 Comandos: 
+  - (!)caules
+  - (!)hello
