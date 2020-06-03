@@ -11,3 +11,7 @@ Comandos:
   - .|.random
 
   - .|.surprise
+
+  - .|.goldenboy
+
+  - .|.extras
